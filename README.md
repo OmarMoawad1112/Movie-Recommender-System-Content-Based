@@ -258,7 +258,7 @@ Movie-Recommender-System/
 
 ## 📸 Screenshots
 
-> *(Add your screenshots here)*
+> *(![Home Page](images/home.png))*
 
 * Home Page UI
 * Movie Selection
