@@ -258,13 +258,10 @@ Movie-Recommender-System/
 
 ## 📸 Screenshots
 
-> *(![Home Page](images/home.png))*
-> *(![Search](images/search.png))*
-> *![Recommendation Results](images/results.png)*
+> *![Home Page](images/home.png)*
+> *![Search](images/search.png)*
+> *![Recommendation Results](images/result.png)*
 
-* Home Page UI
-* Movie Selection
-* Recommendation Results
 
 ---
 
