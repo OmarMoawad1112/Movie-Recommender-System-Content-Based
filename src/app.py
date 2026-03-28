@@ -1,8 +1,8 @@
 import streamlit as st
 import pickle
 
-movies = pickle.load(open('../artifacts/movies.pkl','rb'))
-similarity = pickle.load(open('../artifacts/similarity.pkl','rb'))
+movies = pickle.load(open('movies.pkl','rb'))
+similarity = pickle.load(open('similarity.pkl','rb'))
 
 def recommend(movie):
     index = movies[movies['title'] == movie].index[0]
