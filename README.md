@@ -258,9 +258,14 @@ Movie-Recommender-System/
 
 ## 📸 Screenshots
 
-> *![Home Page](images/home.png)*
-> *![Search](images/search.png)*
-> *![Recommendation Results](images/result.png)*
+### 🏠 Home Page
+![Home Page](images/home.png)
+
+### 🔍 Search
+![Search](images/search.png)
+
+### 🎬 Recommendations
+![Recommendation Results](images/result.png)
 
 
 ---
